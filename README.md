@@ -10,4 +10,4 @@ I love opensource communities.
 - 💬 Ask me about Javascript, React/React-Native, Typescript
 - 📫 How to reach me: hosseinm.developer@gmail.com
 
-contribute to repos in here is totally welcome.
+Contribute to repos in here is totally welcome.
