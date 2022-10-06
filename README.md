@@ -4,11 +4,11 @@
 ### Hi there 👋
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on few react-native(web) projects
-- 🌱 I'm currently deep diving into Javascript
-- 👯 I'm looking to collaborate on every react/react-native project
+- 🔭 I’m currently working on few React, React-Native(web), Nodejs, Nestjs, Nextjs ... projects
+- 🌱 I'm currently deep diving into Javascript/Typescript
+- 👯 I'm looking to collaborate on every React/React-Native/Nodejs project
 - 🤔 I’m looking to best practices for how to create totally cross platform project
-- 💬 Ask me about Javascript, Typescript, React/React-Native
+- 💬 Ask me about Javascript, Typescript, React/React-Native, Nodejs
 - 📫 How to reach me: hosseinm.developer@gmail.com
 - ❤️ I love opensource communities.
 
